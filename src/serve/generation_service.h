@@ -13,6 +13,7 @@
 #include <exception>
 #include <functional>
 #include <memory>
+#include <span>
 #include <optional>
 #include <string>
 #include <vector>
